@@ -171,7 +171,8 @@ document.addEventListener('DOMContentLoaded', () => {
             'Assests/SQL_End_to_End_Data_Analytics/03_gold_dim_table.png',
             'Assests/SQL_End_to_End_Data_Analytics/04_gold_fact_table.png',
             'Assests/SQL_End_to_End_Data_Analytics/05_EDA.png',
-            'Assests/SQL_End_to_End_Data_Analytics/06_report.png'
+            'Assests/SQL_End_to_End_Data_Analytics/06_report.png',
+            'Assests/SQL_End_to_End_Data_Analytics/08_Dashboard.png',
         ],
         'Data Jobs Dashboard': [
             'Assests/Data Jobs Dashboard/01_Data_jobs_dashboard_1.png',
@@ -188,7 +189,8 @@ document.addEventListener('DOMContentLoaded', () => {
         'Power BI Data Modeling': [
             'Assests/Power BI Data Modeling/01_raw_data.png',
             'Assests/Power BI Data Modeling/02_Data_Modeling.png',
-            'Assests/Power BI Data Modeling/03_final_model.png'
+            'Assests/Power BI Data Modeling/03_final_model.png',
+            'Assests/Power BI Data Modeling/04_Auto_report.png'
         ]
     };
 
