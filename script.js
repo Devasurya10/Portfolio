@@ -172,7 +172,7 @@ document.addEventListener('DOMContentLoaded', () => {
             'Assests/SQL_End_to_End_Data_Analytics/04_gold_fact_table.png',
             'Assests/SQL_End_to_End_Data_Analytics/05_EDA.png',
             'Assests/SQL_End_to_End_Data_Analytics/06_report.png',
-            'Assests/SQL_End_to_End_Data_Analytics/08_Dashboard.png',
+            'Assests/SQL_End_to_End_Data_Analytics/08_Dashboard.png'
         ],
         'Data Jobs Dashboard': [
             'Assests/Data Jobs Dashboard/01_Data_jobs_dashboard_1.png',
